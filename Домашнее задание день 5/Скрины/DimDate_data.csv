@@ -1,0 +1,11 @@
+date_key;full_date;year;quarter;month;month_name;day_of_week;is_weekend
+20250101;01.01.2025;2025;1;1;January;Wednesday;false
+20250102;02.01.2025;2025;1;1;January;Thursday;false
+20250103;03.01.2025;2025;1;1;January;Friday;false
+20250104;04.01.2025;2025;1;1;January;Saturday;true
+20250105;05.01.2025;2025;1;1;January;Sunday;true
+20250106;06.01.2025;2025;1;1;January;Monday;false
+20250107;07.01.2025;2025;1;1;January;Tuesday;false
+20250108;08.01.2025;2025;1;1;January;Wednesday;false
+20250109;09.01.2025;2025;1;1;January;Thursday;false
+20250110;10.01.2025;2025;1;1;January;Friday;false

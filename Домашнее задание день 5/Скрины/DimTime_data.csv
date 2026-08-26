@@ -1,0 +1,11 @@
+time_key;hour;minute;time_slot
+1;10;0;morning
+2;11;0;morning
+3;12;0;afternoon
+4;13;0;afternoon
+5;14;0;afternoon
+6;18;0;evening
+7;19;0;evening
+8;20;0;evening
+9;21;0;night
+10;22;0;night
