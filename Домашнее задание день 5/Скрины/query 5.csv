@@ -1,0 +1,8 @@
+day_of_week;total_bookings;no_shows;no_show_percent;
+Monday;2;1;50.00;
+Friday;4;1;25.00;
+Thursday;4;0;0.00;
+Sunday;2;0;0.00;
+Wednesday;4;0;0.00;
+Saturday;2;0;0.00;
+Tuesday;2;0;0.00;
